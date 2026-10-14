@@ -1,0 +1,2224 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "choices": [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Toulouse"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la plus grande planète du Système solaire ?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Saturne",
+      "Neptune"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le symbole chimique de l’or ?",
+    "choices": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Or"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Qui a peint La Joconde ?",
+    "choices": [
+      "Michel-Ange",
+      "Léonard de Vinci",
+      "Raphaël",
+      "Donatello"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel océan est le plus vaste ?",
+    "choices": [
+      "Atlantique",
+      "Indien",
+      "Arctique",
+      "Pacifique"
+    ],
+    "answer": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Combien de jours compte une année bissextile ?",
+    "choices": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle langue est principalement parlée au Brésil ?",
+    "choices": [
+      "Espagnol",
+      "Portugais",
+      "Français",
+      "Italien"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "choices": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la capitale de l’Italie ?",
+    "choices": [
+      "Milan",
+      "Rome",
+      "Naples",
+      "Venise"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Combien font 12 × 8 ?",
+    "choices": [
+      "86",
+      "96",
+      "108",
+      "112"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel gaz les plantes absorbent-elles lors de la photosynthèse ?",
+    "choices": [
+      "Oxygène",
+      "Azote",
+      "Dioxyde de carbone",
+      "Hydrogène"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "choices": [
+      "Vénus",
+      "Terre",
+      "Mercure",
+      "Mars"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le plus grand mammifère connu ?",
+    "choices": [
+      "Éléphant",
+      "Baleine bleue",
+      "Girafe",
+      "Orque"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la capitale de la RDC ?",
+    "choices": [
+      "Lubumbashi",
+      "Goma",
+      "Kinshasa",
+      "Kisangani"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel organe pompe le sang ?",
+    "choices": [
+      "Poumon",
+      "Foie",
+      "Cœur",
+      "Rein"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Combien de côtés possède un triangle ?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle couleur obtient-on avec du bleu et du jaune ?",
+    "choices": [
+      "Orange",
+      "Vert",
+      "Violet",
+      "Rose"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "choices": [
+      "Gobi",
+      "Kalahari",
+      "Sahara",
+      "Atacama"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Dans quel pays se trouve le Machu Picchu ?",
+    "choices": [
+      "Bolivie",
+      "Pérou",
+      "Chili",
+      "Équateur"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel élément possède le numéro atomique 1 ?",
+    "choices": [
+      "Hélium",
+      "Hydrogène",
+      "Oxygène",
+      "Carbone"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle civilisation a construit le Machu Picchu ?",
+    "choices": [
+      "Maya",
+      "Aztèque",
+      "Inca",
+      "Olmèque"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le plus grand pays du monde par superficie ?",
+    "choices": [
+      "Canada",
+      "Chine",
+      "États-Unis",
+      "Russie"
+    ],
+    "answer": 3,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel instrument mesure la pression atmosphérique ?",
+    "choices": [
+      "Thermomètre",
+      "Baromètre",
+      "Hygromètre",
+      "Anémomètre"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Qui a écrit L’Odyssée ?",
+    "choices": [
+      "Homère",
+      "Virgile",
+      "Sophocle",
+      "Platon"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle planète est surnommée la planète rouge ?",
+    "choices": [
+      "Jupiter",
+      "Mars",
+      "Vénus",
+      "Mercure"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le nombre premier immédiatement supérieur à 10 ?",
+    "choices": [
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel métal est couramment utilisé dans les fils électriques ?",
+    "choices": [
+      "Cuivre",
+      "Plomb",
+      "Fer",
+      "Zinc"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Australie ?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Kenya ?",
+    "choices": [
+      "Nairobi",
+      "Dodoma",
+      "Kampala",
+      "Addis-Abeba"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel gaz est le plus abondant dans l’atmosphère terrestre ?",
+    "choices": [
+      "Oxygène",
+      "Azote",
+      "Argon",
+      "CO₂"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le plus petit os du corps humain ?",
+    "choices": [
+      "Étrier",
+      "Fémur",
+      "Radius",
+      "Tibia"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle mer sépare principalement l’Europe et l’Afrique ?",
+    "choices": [
+      "Mer Noire",
+      "Méditerranée",
+      "Mer Baltique",
+      "Mer du Nord"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Qui a formulé les lois du mouvement et de la gravitation ?",
+    "choices": [
+      "Galilée",
+      "Isaac Newton",
+      "Einstein",
+      "Copernic"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le symbole chimique du sodium ?",
+    "choices": [
+      "So",
+      "S",
+      "Na",
+      "Sd"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Canada ?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Montréal",
+      "Ottawa"
+    ],
+    "answer": 3,
+    "difficulty": 2
+  },
+  {
+    "question": "Combien de joueurs une équipe de football aligne-t-elle normalement ?",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le plus haut sommet du monde ?",
+    "choices": [
+      "K2",
+      "Kilimandjaro",
+      "Everest",
+      "Mont Blanc"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Comment appelle-t-on la transformation d’une chenille en papillon ?",
+    "choices": [
+      "Fermentation",
+      "Métamorphose",
+      "Germination",
+      "Érosion"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel pays est appelé le pays du Soleil-Levant ?",
+    "choices": [
+      "Chine",
+      "Corée du Sud",
+      "Japon",
+      "Thaïlande"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel écrivain a créé Sherlock Holmes ?",
+    "choices": [
+      "Arthur Conan Doyle",
+      "Agatha Christie",
+      "Jules Verne",
+      "H. G. Wells"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Égypte ?",
+    "choices": [
+      "Alexandrie",
+      "Le Caire",
+      "Louxor",
+      "Gizeh"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle force attire les objets vers la Terre ?",
+    "choices": [
+      "Magnétisme",
+      "Gravitation",
+      "Friction",
+      "Poussée"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la plus grande île du monde hors continents ?",
+    "choices": [
+      "Madagascar",
+      "Groenland",
+      "Bornéo",
+      "Nouvelle-Guinée"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle invention est associée à Gutenberg ?",
+    "choices": [
+      "Téléphone",
+      "Presse à imprimer",
+      "Ampoule",
+      "Moteur à vapeur"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Argentine ?",
+    "choices": [
+      "Buenos Aires",
+      "Montevideo",
+      "Asunción",
+      "Santiago"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle partie de la cellule contient généralement l’ADN chez les eucaryotes ?",
+    "choices": [
+      "Noyau",
+      "Membrane",
+      "Ribosome",
+      "Vacuole"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est l’unité SI de la force ?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel traité a créé l’Union européenne sous sa forme moderne ?",
+    "choices": [
+      "Rome",
+      "Maastricht",
+      "Versailles",
+      "Lisbonne"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Qui a proposé la relativité générale ?",
+    "choices": [
+      "Newton",
+      "Einstein",
+      "Bohr",
+      "Planck"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale de la Mongolie ?",
+    "choices": [
+      "Astana",
+      "Oulan-Bator",
+      "Bichkek",
+      "Tachkent"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Dans quelle galaxie se trouve le Système solaire ?",
+    "choices": [
+      "Andromède",
+      "Voie lactée",
+      "Sombrero",
+      "Grand Nuage de Magellan"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle molécule transporte principalement l’oxygène dans les globules rouges ?",
+    "choices": [
+      "Insuline",
+      "Hémoglobine",
+      "Kératine",
+      "Collagène"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Qui a écrit Le Prince ?",
+    "choices": [
+      "Machiavel",
+      "Rousseau",
+      "Voltaire",
+      "Descartes"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale de la Nouvelle-Zélande ?",
+    "choices": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la cause principale des saisons ?",
+    "choices": [
+      "Distance au Soleil uniquement",
+      "Inclinaison de l’axe terrestre",
+      "Phases de la Lune",
+      "Rotation de la Lune"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel est le pH approximatif d’une solution neutre à 25 °C ?",
+    "choices": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel philosophe grec fut le maître d’Alexandre le Grand ?",
+    "choices": [
+      "Socrate",
+      "Platon",
+      "Aristote",
+      "Épicure"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale de la Turquie ?",
+    "choices": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Bursa"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle civilisation a développé l’écriture cunéiforme en Mésopotamie ?",
+    "choices": [
+      "Sumérienne",
+      "Romaine",
+      "Viking",
+      "Aztèque"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est l’unité SI de l’énergie ?",
+    "choices": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Tesla"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel peintre est associé aux Nymphéas ?",
+    "choices": [
+      "Claude Monet",
+      "Pablo Picasso",
+      "Edvard Munch",
+      "Paul Cézanne"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "choices": [
+      "Foie",
+      "Peau",
+      "Poumon",
+      "Cerveau"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel pays possède la plus grande population d’Amérique du Sud ?",
+    "choices": [
+      "Argentine",
+      "Colombie",
+      "Brésil",
+      "Pérou"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la formule chimique de l’eau ?",
+    "choices": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel astronome a défendu le modèle héliocentrique au XVIe siècle ?",
+    "choices": [
+      "Copernic",
+      "Ptolémée",
+      "Tycho Brahe",
+      "Kepler"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle ville fut ensevelie par le Vésuve en 79 apr. J.-C. ?",
+    "choices": [
+      "Pompéi",
+      "Athènes",
+      "Carthage",
+      "Alexandrie"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel courant marin chaud influence le climat de l’Europe occidentale ?",
+    "choices": [
+      "Gulf Stream",
+      "Humboldt",
+      "Benguela",
+      "Canaries"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale de l’Islande ?",
+    "choices": [
+      "Oslo",
+      "Reykjavik",
+      "Helsinki",
+      "Stockholm"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Qui a découvert la pénicilline ?",
+    "choices": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel est le plus grand lac d’Afrique par superficie ?",
+    "choices": [
+      "Tanganyika",
+      "Malawi",
+      "Victoria",
+      "Tchad"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle branche des mathématiques étudie les formes et les espaces ?",
+    "choices": [
+      "Algèbre",
+      "Géométrie",
+      "Arithmétique",
+      "Probabilités"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel empire avait pour capitale Tenochtitlan ?",
+    "choices": [
+      "Inca",
+      "Aztèque",
+      "Romain",
+      "Mali"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel élément possède le symbole Fe ?",
+    "choices": [
+      "Fluor",
+      "Fer",
+      "Francium",
+      "Fermium"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel compositeur a écrit la Neuvième Symphonie ?",
+    "choices": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la plus grande lune de Saturne ?",
+    "choices": [
+      "Europe",
+      "Titan",
+      "Io",
+      "Triton"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel pays a offert la Statue de la Liberté aux États-Unis ?",
+    "choices": [
+      "Royaume-Uni",
+      "France",
+      "Espagne",
+      "Italie"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel supercontinent regroupait autrefois la plupart des terres émergées ?",
+    "choices": [
+      "Gondwana",
+      "Pangée",
+      "Laurasie",
+      "Rodinia"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel théorème donne a² + b² = c² dans un triangle rectangle ?",
+    "choices": [
+      "Thalès",
+      "Pythagore",
+      "Fermat",
+      "Euclide"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel nombre est approximativement égal à 1,618 ?",
+    "choices": [
+      "π",
+      "φ",
+      "e",
+      "√2"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Qui a formulé le principe d’incertitude ?",
+    "choices": [
+      "Heisenberg",
+      "Schrödinger",
+      "Maxwell",
+      "Faraday"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle particule est le médiateur de l’interaction électromagnétique ?",
+    "choices": [
+      "Gluon",
+      "Photon",
+      "Boson W",
+      "Graviton"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel peuple a fondé Carthage ?",
+    "choices": [
+      "Phéniciens",
+      "Perses",
+      "Celtes",
+      "Mèdes"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel est le plus petit pays du monde ?",
+    "choices": [
+      "Monaco",
+      "Vatican",
+      "Saint-Marin",
+      "Liechtenstein"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "À quel mathématicien associe-t-on le dernier théorème démontré au XVIIe siècle sous la forme xⁿ+yⁿ=zⁿ ?",
+    "choices": [
+      "Fermat",
+      "Euler",
+      "Gauss",
+      "Pascal"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Qui a écrit Critique de la raison pure ?",
+    "choices": [
+      "Kant",
+      "Hegel",
+      "Spinoza",
+      "Locke"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Dans quelle couche atmosphérique se trouve la majorité de l’ozone ?",
+    "choices": [
+      "Troposphère",
+      "Stratosphère",
+      "Mésosphère",
+      "Thermosphère"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle théorie géologique explique le déplacement des continents ?",
+    "choices": [
+      "Tectonique des plaques",
+      "Théorie cellulaire",
+      "Relativité",
+      "Sélection naturelle"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Qui a formulé les trois lois du mouvement planétaire ?",
+    "choices": [
+      "Kepler",
+      "Galilée",
+      "Newton",
+      "Hubble"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle était la capitale de l’Empire byzantin ?",
+    "choices": [
+      "Constantinople",
+      "Rome",
+      "Antioche",
+      "Sparte"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle unité mesure la résistance électrique ?",
+    "choices": [
+      "Volt",
+      "Ampère",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel processus produit des gamètes ?",
+    "choices": [
+      "Mitose",
+      "Méiose",
+      "Fécondation",
+      "Transcription"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle loi de la thermodynamique exprime la conservation de l’énergie ?",
+    "choices": [
+      "Première loi",
+      "Deuxième loi",
+      "Troisième loi",
+      "Loi zéro"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle unité correspond approximativement à la distance moyenne Terre-Soleil ?",
+    "choices": [
+      "Parsec",
+      "Année-lumière",
+      "Unité astronomique",
+      "Kiloparsec"
+    ],
+    "answer": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle dynastie a construit une grande partie de la Grande Muraille actuelle ?",
+    "choices": [
+      "Qin",
+      "Ming",
+      "Han",
+      "Tang"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Qui a écrit Guerre et Paix ?",
+    "choices": [
+      "Dostoïevski",
+      "Léon Tolstoï",
+      "Tchekhov",
+      "Tourgueniev"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel courant philosophique fut fondé par Zénon de Kition ?",
+    "choices": [
+      "Stoïcisme",
+      "Épicurisme",
+      "Scepticisme",
+      "Cynisme"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel phénomène se produit lorsqu’un objet céleste en masque un autre ?",
+    "choices": [
+      "Éclipse",
+      "Solstice",
+      "Équinoxe",
+      "Précession"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quelle est la capitale du Kazakhstan depuis 2022 ?",
+    "choices": [
+      "Almaty",
+      "Astana",
+      "Chimkent",
+      "Karaganda"
+    ],
+    "answer": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel est le plus grand désert froid du monde ?",
+    "choices": [
+      "Gobi",
+      "Antarctique",
+      "Sahara",
+      "Atacama"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel fleuve est généralement considéré comme le plus long d’Afrique ?",
+    "choices": [
+      "Congo",
+      "Nil",
+      "Niger",
+      "Zambèze"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "choices": [
+      "Casablanca",
+      "Rabat",
+      "Marrakech",
+      "Fès"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le symbole chimique du carbone ?",
+    "choices": [
+      "Ca",
+      "C",
+      "Co",
+      "Cr"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Combien de pattes possède une araignée ?",
+    "choices": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Qui a écrit Roméo et Juliette ?",
+    "choices": [
+      "Shakespeare",
+      "Dickens",
+      "Oscar Wilde",
+      "George Orwell"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Allemagne ?",
+    "choices": [
+      "Berlin",
+      "Munich",
+      "Francfort",
+      "Hambourg"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le résultat de 15² ?",
+    "choices": [
+      "125",
+      "200",
+      "225",
+      "250"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel organe filtre le sang et produit l’urine ?",
+    "choices": [
+      "Foie",
+      "Rein",
+      "Cœur",
+      "Rate"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Où se trouvent les pyramides de Gizeh ?",
+    "choices": [
+      "Égypte",
+      "Soudan",
+      "Libye",
+      "Tunisie"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la capitale de l’Espagne ?",
+    "choices": [
+      "Barcelone",
+      "Séville",
+      "Madrid",
+      "Valence"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le satellite naturel de la Terre ?",
+    "choices": [
+      "Phobos",
+      "Lune",
+      "Titan",
+      "Europe"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel métal a pour symbole Ag ?",
+    "choices": [
+      "Argent",
+      "Or",
+      "Aluminium",
+      "Argon"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale administrative de l’Afrique du Sud ?",
+    "choices": [
+      "Pretoria",
+      "Lusaka",
+      "Harare",
+      "Maputo"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Qui fut le premier homme à marcher sur la Lune ?",
+    "choices": [
+      "Neil Armstrong",
+      "Yuri Gagarine",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Éthiopie ?",
+    "choices": [
+      "Addis-Abeba",
+      "Asmara",
+      "Mogadiscio",
+      "Khartoum"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "choices": [
+      "Pacifique",
+      "Atlantique",
+      "Indien",
+      "Arctique"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Qui a établi la loi de conservation de la masse en chimie moderne ?",
+    "choices": [
+      "Lavoisier",
+      "Darwin",
+      "Newton",
+      "Faraday"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Comment appelle-t-on le passage de l’eau liquide à la vapeur ?",
+    "choices": [
+      "Condensation",
+      "Fusion",
+      "Évaporation",
+      "Sublimation"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Portugal ?",
+    "choices": [
+      "Porto",
+      "Lisbonne",
+      "Braga",
+      "Coimbra"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel continent est traversé par l’équateur et comprend l’Amazonie ?",
+    "choices": [
+      "Afrique",
+      "Amérique du Sud",
+      "Europe",
+      "Asie"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le langage de balisage utilisé pour structurer une page web ?",
+    "choices": [
+      "CSS",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel langage est principalement utilisé pour styliser une page web ?",
+    "choices": [
+      "HTML",
+      "CSS",
+      "SQL",
+      "C"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Que signifie CPU ?",
+    "choices": [
+      "Central Processing Unit",
+      "Computer Personal Utility",
+      "Central Program User",
+      "Control Processing Utility"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel protocole permet de consulter des pages web de manière sécurisée ?",
+    "choices": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SMTP"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel langage est couramment utilisé pour interroger une base de données relationnelle ?",
+    "choices": [
+      "SQL",
+      "HTML",
+      "CSS",
+      "SVG"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le rôle principal du DNS ?",
+    "choices": [
+      "Chiffrer les fichiers",
+      "Associer noms de domaine et adresses IP",
+      "Compresser les vidéos",
+      "Créer des mots de passe"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel langage s’exécute principalement dans les navigateurs web ?",
+    "choices": [
+      "JavaScript",
+      "SQL",
+      "C",
+      "Bash"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel format est très utilisé pour échanger des données entre applications web ?",
+    "choices": [
+      "JSON",
+      "BMP",
+      "WAV",
+      "EXE"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Que signifie URL ?",
+    "choices": [
+      "Uniform Resource Locator",
+      "Universal Routing Link",
+      "User Resource Language",
+      "Unified Reference Location"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel protocole est principalement associé à l’envoi des e-mails ?",
+    "choices": [
+      "SMTP",
+      "HTTP",
+      "DNS",
+      "SSH"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel système de contrôle de version distribué a été créé par Linus Torvalds ?",
+    "choices": [
+      "Git",
+      "SVN",
+      "Docker",
+      "Mercurial"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle mémoire est généralement utilisée comme mémoire de travail volatile ?",
+    "choices": [
+      "RAM",
+      "ROM",
+      "SSD",
+      "HDD"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel composant effectue principalement les calculs généraux d’un ordinateur ?",
+    "choices": [
+      "CPU",
+      "Écran",
+      "Clavier",
+      "SSD"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel programme permet de naviguer sur le Web ?",
+    "choices": [
+      "Navigateur",
+      "Compilateur",
+      "Éditeur audio",
+      "Pare-feu"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel protocole sécurisé permet une administration distante en ligne de commande ?",
+    "choices": [
+      "SSH",
+      "FTP",
+      "HTTP",
+      "POP3"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel mécanisme traduit les noms de domaine en adresses IP ?",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "HTML",
+      "SMTP"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel composant rend principalement les graphiques 3D ?",
+    "choices": [
+      "GPU",
+      "CPU",
+      "RAM",
+      "SSD"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel format vectoriel est couramment utilisé pour les graphiques web ?",
+    "choices": [
+      "SVG",
+      "JPEG",
+      "MP3",
+      "AVI"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle technique adapte une page web aux différentes tailles d’écran ?",
+    "choices": [
+      "Responsive design",
+      "Overclocking",
+      "Minification",
+      "Hashing"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Comment s’appelle la pratique de vérification automatique du code avec ESLint ?",
+    "choices": [
+      "Linting",
+      "Rendering",
+      "Routing",
+      "Bundling"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle méthode JavaScript transforme une chaîne JSON en objet ?",
+    "choices": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.object()",
+      "JSON.decode()"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle méthode JavaScript transforme un objet en chaîne JSON ?",
+    "choices": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.encode()",
+      "JSON.toText()"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle fonction JavaScript est couramment utilisée pour effectuer une requête réseau ?",
+    "choices": [
+      "fetch()",
+      "requestData()",
+      "httpGet()",
+      "network()"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle structure JavaScript stocke des paires clé-valeur avec des clés de types variés ?",
+    "choices": [
+      "Map",
+      "Array",
+      "String",
+      "Set"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle structure JavaScript stocke des valeurs uniques ?",
+    "choices": [
+      "Set",
+      "Map",
+      "Array",
+      "Object"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel opérateur permet de décomposer les éléments d’un tableau ou les propriétés d’un objet ?",
+    "choices": [
+      "Spread",
+      "Modulo",
+      "typeof",
+      "delete"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle méthode parcourt chaque élément d’un tableau ?",
+    "choices": [
+      "forEach()",
+      "map()",
+      "filter()",
+      "reduce()"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle méthode crée un nouveau tableau en transformant chaque élément ?",
+    "choices": [
+      "map()",
+      "forEach()",
+      "find()",
+      "some()"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle méthode conserve les éléments qui satisfont une condition ?",
+    "choices": [
+      "filter()",
+      "map()",
+      "reduce()",
+      "join()"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle méthode combine les éléments d’un tableau pour produire une valeur finale ?",
+    "choices": [
+      "reduce()",
+      "filter()",
+      "forEach()",
+      "slice()"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel mot-clé permet d’attendre une Promise dans une fonction async ?",
+    "choices": [
+      "await",
+      "yield",
+      "pause",
+      "wait"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel objet représente le résultat futur d’une opération asynchrone ?",
+    "choices": [
+      "Promise",
+      "Iterator",
+      "Map",
+      "Symbol"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel mécanisme coordonne notamment les tâches asynchrones en JavaScript ?",
+    "choices": [
+      "Event loop",
+      "DOM tree",
+      "CSSOM",
+      "Garbage collector"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel modèle représente la structure d’un document HTML dans le navigateur ?",
+    "choices": [
+      "DOM",
+      "DNS",
+      "DOMS",
+      "JVM"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel stockage navigateur conserve des paires clé-valeur côté client ?",
+    "choices": [
+      "localStorage",
+      "sessionFetch",
+      "browserDB",
+      "clientCache"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel attribut HTML fournit un texte alternatif à une image ?",
+    "choices": [
+      "alt",
+      "title-only",
+      "label",
+      "description"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel attribut HTML associe un label à un champ de formulaire ?",
+    "choices": [
+      "for",
+      "bind",
+      "target",
+      "connect"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel attribut ARIA annonce les changements d’une région dynamique ?",
+    "choices": [
+      "aria-live",
+      "aria-hidden",
+      "aria-size",
+      "aria-color"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel attribut HTML permet de stocker des données personnalisées ?",
+    "choices": [
+      "data-*",
+      "custom-*",
+      "js-*",
+      "store-*"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle unité fondamentale de l’information peut valoir 0 ou 1 ?",
+    "choices": [
+      "Octet",
+      "Bit",
+      "Pixel",
+      "Hertz"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel est le principal pigment vert des plantes ?",
+    "choices": [
+      "Hémoglobine",
+      "Chlorophylle",
+      "Mélanine",
+      "Carotène"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel pays est considéré comme le berceau des Jeux olympiques antiques ?",
+    "choices": [
+      "Italie",
+      "Grèce",
+      "Égypte",
+      "Turquie"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la couche externe solide de la Terre ?",
+    "choices": [
+      "Noyau",
+      "Manteau",
+      "Croûte terrestre",
+      "Asthénosphère"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel processus permet aux plantes de fabriquer de la matière organique grâce à la lumière ?",
+    "choices": [
+      "Respiration",
+      "Photosynthèse",
+      "Fermentation",
+      "Digestion"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de la Norvège ?",
+    "choices": [
+      "Oslo",
+      "Bergen",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la valeur approximative de π ?",
+    "choices": [
+      "2,14",
+      "3,14",
+      "4,14",
+      "1,41"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel système politique repose sur des représentants élus ?",
+    "choices": [
+      "Démocratie représentative",
+      "Monarchie absolue",
+      "Théocratie",
+      "Oligarchie militaire"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle mer se trouve entre l’Arabie et l’Afrique de l’Est ?",
+    "choices": [
+      "Mer Rouge",
+      "Mer Baltique",
+      "Mer Caspienne",
+      "Mer Noire"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Pérou ?",
+    "choices": [
+      "Lima",
+      "Quito",
+      "La Paz",
+      "Santiago"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle étoile se trouve au centre du Système solaire ?",
+    "choices": [
+      "Sirius",
+      "Soleil",
+      "Véga",
+      "Polaris"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel fut le premier satellite artificiel lancé en 1957 ?",
+    "choices": [
+      "Apollo 1",
+      "Sputnik 1",
+      "Explorer 1",
+      "Vostok 1"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel élément chimique a pour symbole K ?",
+    "choices": [
+      "Krypton",
+      "Potassium",
+      "Calcium",
+      "Cobalt"
+    ],
+    "answer": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale du Nigeria ?",
+    "choices": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel canal relie la Méditerranée à la mer Rouge ?",
+    "choices": [
+      "Panama",
+      "Suez",
+      "Kiel",
+      "Corinthe"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Qui a formulé la théorie de l’évolution par sélection naturelle ?",
+    "choices": [
+      "Charles Darwin",
+      "Louis Pasteur",
+      "Gregor Mendel",
+      "Alfred Wegener"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Sénégal ?",
+    "choices": [
+      "Dakar",
+      "Saint-Louis",
+      "Thiès",
+      "Touba"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la plus grande forêt tropicale du monde ?",
+    "choices": [
+      "Forêt du Congo",
+      "Amazonie",
+      "Forêt de Bornéo",
+      "Forêt de Taï"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Ghana ?",
+    "choices": [
+      "Accra",
+      "Kumasi",
+      "Tamale",
+      "Cape Coast"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle unité mesure la puissance électrique ?",
+    "choices": [
+      "Watt",
+      "Volt",
+      "Ohm",
+      "Ampère"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle planète possède la Grande Tache rouge ?",
+    "choices": [
+      "Jupiter",
+      "Saturne",
+      "Neptune",
+      "Mars"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quelle est la capitale de la Tanzanie ?",
+    "choices": [
+      "Dodoma",
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel est le plus grand lac d’eau douce par superficie ?",
+    "choices": [
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Baïkal",
+      "Lac Tanganyika"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel fleuve traverse Londres ?",
+    "choices": [
+      "Tamise",
+      "Seine",
+      "Mersey",
+      "Trent"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Inde ?",
+    "choices": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Bangalore"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel gaz noble est utilisé dans certaines enseignes lumineuses ?",
+    "choices": [
+      "Néon",
+      "Oxygène",
+      "Azote",
+      "Hydrogène"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale du Mexique ?",
+    "choices": [
+      "Cancún",
+      "Guadalajara",
+      "Mexico",
+      "Monterrey"
+    ],
+    "answer": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel monument parisien fut construit pour l’Exposition universelle de 1889 ?",
+    "choices": [
+      "Arc de Triomphe",
+      "Tour Eiffel",
+      "Panthéon",
+      "Louvre"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle unité est l’unité SI de température ?",
+    "choices": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "answer": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel ancien réseau commercial reliait notamment la Chine à la Méditerranée ?",
+    "choices": [
+      "Route de la soie",
+      "Route de l’ambre",
+      "Route royale",
+      "Route du thé"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de la Corée du Sud ?",
+    "choices": [
+      "Séoul",
+      "Busan",
+      "Incheon",
+      "Daegu"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel volcan italien se trouve près de Naples ?",
+    "choices": [
+      "Etna",
+      "Vésuve",
+      "Stromboli",
+      "Vulcano"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle science étudie les êtres vivants ?",
+    "choices": [
+      "Géologie",
+      "Biologie",
+      "Astronomie",
+      "Chimie"
+    ],
+    "answer": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Quelle est la capitale de la Grèce ?",
+    "choices": [
+      "Athènes",
+      "Thessalonique",
+      "Patras",
+      "Sparte"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Quel métal est liquide à température ambiante ?",
+    "choices": [
+      "Mercure",
+      "Fer",
+      "Cuivre",
+      "Aluminium"
+    ],
+    "answer": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Quel est le continent le plus peuplé ?",
+    "choices": [
+      "Afrique",
+      "Europe",
+      "Asie",
+      "Amérique du Nord"
+    ],
+    "answer": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "choices": [
+      "Rhinocéros blanc",
+      "Éléphant d’Afrique",
+      "Girafe",
+      "Hippopotame"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle est la capitale de l’Autriche ?",
+    "choices": [
+      "Vienne",
+      "Salzbourg",
+      "Graz",
+      "Innsbruck"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle mer intérieure est souvent classée comme le plus grand lac du monde ?",
+    "choices": [
+      "Mer Caspienne",
+      "Mer Noire",
+      "Mer Rouge",
+      "Mer d’Aral"
+    ],
+    "answer": 0,
+    "difficulty": 4
+  },
+  {
+    "question": "Quel protocole sécurisé est utilisé pour les connexions Web chiffrées avec TLS ?",
+    "choices": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "Telnet"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel est le nom de la mémoire non volatile qui conserve les données hors tension ?",
+    "choices": [
+      "RAM",
+      "Stockage non volatil",
+      "Cache CPU",
+      "Registre"
+    ],
+    "answer": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Quelle architecture met en relation un client et un serveur ?",
+    "choices": [
+      "Client-serveur",
+      "Pair-à-pair uniquement",
+      "Monolithique matériel",
+      "Bus système"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel format d’image prend en charge la transparence et la compression sans perte ?",
+    "choices": [
+      "PNG",
+      "MP3",
+      "MP4",
+      "TXT"
+    ],
+    "answer": 0,
+    "difficulty": 2
+  },
+  {
+    "question": "Quel outil permet de versionner et fusionner du code source ?",
+    "choices": [
+      "Git",
+      "HTML",
+      "CSS",
+      "FTP"
+    ],
+    "answer": 0,
+    "difficulty": 1
+  }
+]
